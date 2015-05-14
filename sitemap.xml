@@ -1,0 +1,10 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>http://asp.azurewebsites.net/</loc>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
+		<loc>http://asp.azurewebsites.net/collections.asp</loc>
+		<changefreq>daily</changefreq>
+	</url>
+</urlset>
