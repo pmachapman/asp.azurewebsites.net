@@ -48,7 +48,7 @@ Next
 Response.Write vbTab & vbTab & "<hr>" & vbCrLf
 
 ' Display the page footer
-Response.Write vbTab & vbTab & "<p>Valid HTML 2.0. Source code available from <a href=""https://gist.github.com/pmachapman/87f9c124948ad78ef781"">https://gist.github.com/pmachapman/87f9c124948ad78ef781</a></p>" & vbCrLf
+Response.Write vbTab & vbTab & "<p>Valid HTML 2.0.</p>" & vbCrLf
 Response.Write vbTab & "</body>" & vbCrLf
 Response.Write "</html>" & vbCrLf
 %>
